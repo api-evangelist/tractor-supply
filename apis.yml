@@ -1,7 +1,11 @@
 aid: tractor-supply
-url: https://raw.githubusercontent.com/api-evangelist/tractor-supply/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/tractor-supply/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.tractor-supply.com
+description: >-
+  Tractor Supply Company is the largest rural lifestyle retailer in the United States,
+  providing products to support recreational farming, ranching, and country lifestyles.
