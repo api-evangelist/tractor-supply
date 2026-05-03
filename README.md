@@ -1,33 +1,29 @@
-# Tractor Supply (tractor-supply)
-Tractor Supply is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Tractor Supply.
+# Tractor Supply
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/tractor-supply/refs/heads/main/apis.yml)
+Tractor Supply Company is the largest rural lifestyle retailer in the United States, providing products to support recreational farming, ranching, and country lifestyles. Tractor Supply integrates with suppliers and vendors primarily via EDI and vendor portal systems.
 
-## Scope
+**URL:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/tractor-supply/refs/heads/main/apis.yml)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Tags
 
-## Tags:
-
- - Fortune 500
-
-## Timestamps
-
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- Agriculture
+- Commerce
+- EDI
+- Retail
+- Rural Lifestyle
+- Supply Chain
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public developer APIs have been documented for Tractor Supply. Supplier integrations are handled via EDI and the Tractor Supply Transaction Vendor Portal.
 
 ## Common Properties
 
-- [Website](https://www.tractor-supply.com)
+| Type | URL |
+|------|-----|
+| Website | [https://www.tractorsupply.com](https://www.tractorsupply.com) |
+| Vendor Portal | [https://vtp.tractorsupply.com](https://vtp.tractorsupply.com) |
+| Supplier Information | [https://www.tractorsupply.com/tsc/cms/policies-information/vendor-information/supplier-opportunity-development](https://www.tractorsupply.com/tsc/cms/policies-information/vendor-information/supplier-opportunity-development) |
 
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+---
+*Maintained by Kin Lane (kin@apievangelist.com)*
