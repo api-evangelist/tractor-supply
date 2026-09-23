@@ -1,7 +1,9 @@
 ---
 title: Tractor Supply Company shows the power of AI in retail | IBM
 url: https://listen.casted.us/public/95/AI-in-Action-9040dcb1/8208c186
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tractor Supply" press release artificial intelligence'
 position: 3
 source: serpapi-google

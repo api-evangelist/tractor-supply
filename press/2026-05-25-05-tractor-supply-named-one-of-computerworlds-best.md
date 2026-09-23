@@ -1,7 +1,9 @@
 ---
 title: Tractor Supply Named One of Computerworld's Best ...
 url: https://ir.tractorsupply.com/newsroom/news-releases/news-releases-details/2024/Tractor-Supply-Named-One-of-Computerworlds-Best-Places-to-Work-in-IT/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tractor Supply" press release artificial intelligence'
 position: 5
 source: serpapi-google

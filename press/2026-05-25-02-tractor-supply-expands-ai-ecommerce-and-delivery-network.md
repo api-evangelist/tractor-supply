@@ -1,7 +1,9 @@
 ---
 title: Tractor Supply expands AI, ecommerce and delivery network
 url: https://www.digitalcommerce360.com/2026/01/30/tractor-supply-ai-ecommerce-delivery-network-sales-q4-2025/
-date: '2026-05-25'
+published: '2026-01-30'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Tractor Supply" press release artificial intelligence'
 position: 2
 source: serpapi-google
